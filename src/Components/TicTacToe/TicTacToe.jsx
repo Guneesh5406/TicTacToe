@@ -1,9 +1,7 @@
 import React, { useRef, useState } from "react";
 import "./TicTacToe.css";
-import circle_icon from "../Assets/circle.png";
-import cross_icon from "../Assets/cross.png";
-
-//hi
+import circle_icon from "../assets/circle.png";
+import cross_icon from "../assets/cross.png";
 
 let data = ["", "", "", "", "", "", "", "", ""];
 
